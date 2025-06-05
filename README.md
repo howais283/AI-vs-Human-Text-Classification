@@ -49,7 +49,7 @@ The dataset used is publicly available on Kaggle:
 - Original size: 487,235 essays
 - Project subset: 100,000 entries (50K human-written, 50K AI-generated)
 
-For more details, see [`dataset/dataset-info.md`](./dataset/dataset-info.md)
+For more details, see [`dataset/dataset-info.md`](./Dataset/dataset-info.md)
 
 ---
 
